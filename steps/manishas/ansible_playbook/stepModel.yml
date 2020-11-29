@@ -1,0 +1,5 @@
+configuration:
+  resourceName:
+    type: String
+  fileName:
+    type: String
